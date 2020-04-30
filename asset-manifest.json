@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/boredom/static/css/main.d5f948f8.chunk.css",
+    "main.js": "/boredom/static/js/main.02adecd5.chunk.js",
+    "main.js.map": "/boredom/static/js/main.02adecd5.chunk.js.map",
+    "runtime-main.js": "/boredom/static/js/runtime-main.c4fbda45.js",
+    "runtime-main.js.map": "/boredom/static/js/runtime-main.c4fbda45.js.map",
+    "static/js/2.27a51b05.chunk.js": "/boredom/static/js/2.27a51b05.chunk.js",
+    "static/js/2.27a51b05.chunk.js.map": "/boredom/static/js/2.27a51b05.chunk.js.map",
+    "index.html": "/boredom/index.html",
+    "precache-manifest.ae9206fb094332d01206a91e8bf09d3e.js": "/boredom/precache-manifest.ae9206fb094332d01206a91e8bf09d3e.js",
+    "service-worker.js": "/boredom/service-worker.js",
+    "static/css/main.d5f948f8.chunk.css.map": "/boredom/static/css/main.d5f948f8.chunk.css.map",
+    "static/js/2.27a51b05.chunk.js.LICENSE.txt": "/boredom/static/js/2.27a51b05.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4fbda45.js",
+    "static/js/2.27a51b05.chunk.js",
+    "static/css/main.d5f948f8.chunk.css",
+    "static/js/main.02adecd5.chunk.js"
+  ]
+}
