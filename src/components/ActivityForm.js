@@ -1,11 +1,22 @@
 import React from "react";
 
-const ActivityForm = () => (
-  <form className="activity-form">
+const ActivityForm = ({
+  participants,
+  handleChange,
+  handleSubmit,
+  loading,
+}) => (
+  <form className="activity-form" onSubmit={handleSubmit}>
     <label>
-      <input type="number" placeholder="Add number of participants" required />
+      <input
+        type="number"
+        value={participants}
+        onChange={handleChange}
+        placeholder="Add number of participants"
+        required
+      />
     </label>
-    <button>Search</button>
+    <button>{loading ? "Loading..." : "Search"}</button>
   </form>
 );
 
