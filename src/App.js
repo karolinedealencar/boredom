@@ -5,6 +5,7 @@ import "./index.css";
 import Header from "./components/Header";
 import ActivityForm from "./components/ActivityForm";
 import Activity from "./components/Activity";
+import Hero from "./components/Hero";
 
 const App = () => {
   const [participants, setParticipants] = useState("");
@@ -28,7 +29,8 @@ const App = () => {
   };
 
   return (
-    <>
+    <main className="main">
+      <Hero />
       <Header />
       <ActivityForm
         participants={participants}
@@ -37,7 +39,7 @@ const App = () => {
         loading={loading}
       />
       <Activity activity={activity} />
-    </>
+    </main>
   );
 };
 

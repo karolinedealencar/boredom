@@ -13,6 +13,10 @@ a {
   color: inherit;
 }
 
+img {
+  width: 100%;
+}
+
 label {
   width: 100%;
   display: block;
@@ -78,4 +82,10 @@ h2 {
 .activity {
   margin-top: 3rem;
   text-align: center;
+}
+
+.hero {
+  width: 65%;
+  max-width: 600px;
+  margin: 0 auto;
 }
