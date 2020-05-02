@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/boredom/static/css/main.d5f948f8.chunk.css",
-    "main.js": "/boredom/static/js/main.02adecd5.chunk.js",
-    "main.js.map": "/boredom/static/js/main.02adecd5.chunk.js.map",
+    "main.css": "/boredom/static/css/main.4fc6bb65.chunk.css",
+    "main.js": "/boredom/static/js/main.f5c94448.chunk.js",
+    "main.js.map": "/boredom/static/js/main.f5c94448.chunk.js.map",
     "runtime-main.js": "/boredom/static/js/runtime-main.c4fbda45.js",
     "runtime-main.js.map": "/boredom/static/js/runtime-main.c4fbda45.js.map",
-    "static/js/2.27a51b05.chunk.js": "/boredom/static/js/2.27a51b05.chunk.js",
-    "static/js/2.27a51b05.chunk.js.map": "/boredom/static/js/2.27a51b05.chunk.js.map",
+    "static/js/2.2a428960.chunk.js": "/boredom/static/js/2.2a428960.chunk.js",
+    "static/js/2.2a428960.chunk.js.map": "/boredom/static/js/2.2a428960.chunk.js.map",
     "index.html": "/boredom/index.html",
-    "precache-manifest.689a0f5a47ef2fd1d8404930f2138171.js": "/boredom/precache-manifest.689a0f5a47ef2fd1d8404930f2138171.js",
+    "precache-manifest.ca615b0c0947b2412a1218e3c517b52c.js": "/boredom/precache-manifest.ca615b0c0947b2412a1218e3c517b52c.js",
     "service-worker.js": "/boredom/service-worker.js",
-    "static/css/main.d5f948f8.chunk.css.map": "/boredom/static/css/main.d5f948f8.chunk.css.map",
-    "static/js/2.27a51b05.chunk.js.LICENSE.txt": "/boredom/static/js/2.27a51b05.chunk.js.LICENSE.txt"
+    "static/css/main.4fc6bb65.chunk.css.map": "/boredom/static/css/main.4fc6bb65.chunk.css.map",
+    "static/js/2.2a428960.chunk.js.LICENSE.txt": "/boredom/static/js/2.2a428960.chunk.js.LICENSE.txt",
+    "static/media/tree_swing.svg": "/boredom/static/media/tree_swing.262ceccf.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c4fbda45.js",
-    "static/js/2.27a51b05.chunk.js",
-    "static/css/main.d5f948f8.chunk.css",
-    "static/js/main.02adecd5.chunk.js"
+    "static/js/2.2a428960.chunk.js",
+    "static/css/main.4fc6bb65.chunk.css",
+    "static/js/main.f5c94448.chunk.js"
   ]
 }
